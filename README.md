@@ -1,7 +1,5 @@
 # Analysing-Conversion-Rates-of-Marketing-Campaigns
-
-# Analyzing the Conversion Rate of a Bank's Marketing Campaign
-### EXPLORATORY ANALYSIS
+# EXPLORATORY ANALYSIS
 
 Source - https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
